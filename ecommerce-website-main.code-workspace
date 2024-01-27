@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ecommerce-website-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ecommerce-website-main"
+	}
+}
